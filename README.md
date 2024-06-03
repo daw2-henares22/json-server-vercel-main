@@ -1,4 +1,4 @@
-## Deploy JSON Server to Vercel
+## Deploy JSON Server to Vercell
 
 A template to deploy [JSON Server](https://github.com/typicode/json-server) to [Vercel](https://vercel.com), allow you to run fake REST API online!
 
